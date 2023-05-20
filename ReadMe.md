@@ -20,8 +20,8 @@ Decentralized Market Manager (DMM) is an innovative decentralized exchange (DEX)
 - The project also aims to implement a treasury contract to attract liquidity from investors, further enhancing the platform's liquidity and functionality.
 
 ## References
-@openzeppelin/contracts
-ChatGPT version 3.5
+- @openzeppelin/contracts
+- ChatGPT version 3.5
 
 ## Getting Started
 1. Install MetaMask browser extension and connect to a supported Ethereum test network (e.g., Rinkeby, Ropsten, Kovan, or Goerli).
