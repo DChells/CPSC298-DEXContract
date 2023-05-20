@@ -17,7 +17,8 @@ Decentralized Market Manager (DMM) is an innovative decentralized exchange (DEX)
 (Provide information about the motivation and background of the project here)
 
 ## References
-(Provide links to related work that is relevant here)
+@openzeppelin/contracts
+ChatGPT version 4
 
 ## Getting Started
 1. Install MetaMask browser extension and connect to a supported Ethereum test network (e.g., Rinkeby, Ropsten, Kovan, or Goerli).
@@ -41,4 +42,4 @@ Goerli Network got deprecated mid-production which messed with our schedule and 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Video
-(Provide a link to the video you made here)
+See attatched CPSC298Presentation.mp4
